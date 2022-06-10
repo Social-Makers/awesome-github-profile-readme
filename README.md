@@ -85,7 +85,7 @@
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 
 #### Game Mode 🚀
-- [Tim Burgan](https://github.com/timburgan/timburgan)
+- [Tim Burgan](https://github.com/timbuhttps://github.com/Social-Makers/awesome-github-profile-readme.gitrgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
@@ -179,6 +179,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+- [Cristiano Filho](https://github.com/CristianoFIlho/CristianoFIlho)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
